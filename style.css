@@ -1,0 +1,47 @@
+.minislider{
+    width: 80%;
+    margin: 50px auto 50px auto;
+}
+.Logo{
+    margin: 50px auto;
+}
+.title_of_department{
+    font-size: xx-large;
+    margin: 25px;
+}
+#IT_logo{
+    height: 50px;
+}
+.home{
+    margin: auto 70px;
+}
+.course_card{
+    margin: 70px;
+}
+.facility_card{
+    margin: 50px auto;
+    width: 25%;
+}
+
+.com_logo_slider{
+    margin: 150px;
+}
+.card-img-top{
+    margin: auto;
+    margin-top: 5px;
+    width: 50%;
+}
+
+.Faculty_details{
+    margin: 25px;
+}
+
+.nav-button{
+    margin: auto 20px;
+}
+.contact{
+    width: 20%;
+    border: 5px;
+    text-align: center;
+    margin: 25px auto;
+}
